@@ -3,7 +3,7 @@ Unofficial project for learning Modu created by Modu's Discord server moderators
 <br>
 Modu's Official Discord Server: [https://discord.gg/5Y8NVeYa](https://discord.gg/5Y8NVeYa)
 <br>
-Website link: https://learnmodu.github.io (soon) (also https://learnmodu.org soon)
+Website link [WORK IN PROGRESS]: https://learnmodu.github.io (also https://learnmodu.org soon)
 <br>
 <br>
 ### Cyteon is NOT a part of LearnModu. This is a project made by 5 hobbyists.
