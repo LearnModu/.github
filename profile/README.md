@@ -7,7 +7,7 @@ Website link [WORK IN PROGRESS]: https://learnmodu.org
 ## In the works 👷‍♂️:
 LearnModu/komodu
 <br>
-https://learnmodu.org
+https://learnmodu.org (Main project)
 <br>
 <br>
 ### Cyteon is NOT a part of LearnModu. This is a project made by 5 hobbyists.
