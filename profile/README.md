@@ -6,7 +6,8 @@ Modu's Official Discord Server: [https://discord.gg/5Y8NVeYa](https://discord.gg
 Website link [WORK IN PROGRESS]: https://learnmodu.org
 ## In the works 👷‍♂️:
 LearnModu/komodu
-[https://learnmodu.org]
+<br>
+https://learnmodu.org
 <br>
 <br>
 ### Cyteon is NOT a part of LearnModu. This is a project made by 5 hobbyists.
