@@ -16,4 +16,4 @@ Komodu (Embedded commenting system)
 ModuAssist (AI assistant for Modu)
 <br>
 <br>
-### We are not affiliated with Cyteon or Modu in any way. This is a project made by 5 hobbyists.
+### We are not affiliated with Cyteon or Modu in any way. This is a project made by 6 hobbyists.
