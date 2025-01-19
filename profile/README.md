@@ -9,11 +9,12 @@ Modu's Official Website: [https://www.cyteon.tech/modu/](https://www.cyteon.tech
 <br><br>
 LearnModu Website [WORK IN PROGRESS]: https://learnmodu.org
 ## In the works 👷‍♂️:
-LearnModu.org (Our blog about Modu)
+[LearnModu.org](https://learnmodu.github.io) (Our W3Schools-like webpage about Modu)
 <br>
-Komodu (Embedded commenting system)
+[Komodu](https://learnmodu.github.io/komodu) (Embedded commenting system)
 <br>
-ModuAssist (AI assistant for Modu)
+[ModuAssist](https://learnmodu.github.io/assist.html) (AI assistant for Modu)
 <br>
+[lmvp](https://learnmodu.github.io/lmvp) (LearnModu Video Player)
 <br>
 ### We are not affiliated with Cyteon or Modu in any way. This is a project made by 6 hobbyists.
