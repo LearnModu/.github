@@ -17,4 +17,5 @@ LearnModu Website [WORK IN PROGRESS]: https://learnmodu.org
 <br>
 [lmvp](https://learnmodu.github.io/lmvp) (LearnModu Video Player)
 <br>
+<br>
 ### We are not affiliated with Cyteon or Modu in any way. This is a project made by 6 hobbyists.
