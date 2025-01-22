@@ -15,7 +15,7 @@ LearnModu Website [WORK IN PROGRESS]: https://learnmodu.org
 <br>
 [ModuAssist](https://learnmodu.github.io/assist.html) (AI assistant for Modu)
 <br>
-[lmvp](https://learnmodu.github.io/lmvp) (LearnModu Video Player)
+[Nimble](https://learnmodu.github.io/nimble) (LearnModu Video Player)
 <br>
 <br>
 ### We are not affiliated with Cyteon or Modu in any way. This is a project made by 6 hobbyists.
